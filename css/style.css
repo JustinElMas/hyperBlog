@@ -8,10 +8,11 @@ body {
     color: #a52a2a;
     margin: 0;
     padding: 0;
+    background-color: #f3d2d2;
 }
 
 #cabecera {
-    margin: 0;
+    margin: 0 0.9rem;
     padding: 0.5em;
     background-color: #338;
     color: #fff;
