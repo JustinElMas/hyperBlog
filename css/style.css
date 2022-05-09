@@ -8,10 +8,12 @@ body {
     color: #a52a2a;
     margin: 0;
     padding: 0;
+    background-color: #f3d2d2;
 }
 
+
 #cabecera {
-    margin: 0;
+    margin: 0.9rem 0;
     padding: 0.5em;
     background-color: #456;
     color: #fff;
@@ -31,8 +33,8 @@ body {
     padding: 0;
     font-weight: bold;
     text-align: left;
-    border: 3px dashed #bc8f8f;
-    margin: 0 auto;
+    border: 1px solid #bc8f8f;
+    margin: 0.6rem auto;
 }
 
 #container h1 {
