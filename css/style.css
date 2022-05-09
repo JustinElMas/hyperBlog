@@ -11,8 +11,9 @@ body {
     background-color: #f3d2d2;
 }
 
+
 #cabecera {
-    margin: 0 0.9rem;
+    margin: 0.9rem 0;
     padding: 0.5em;
     background-color: #338;
     color: #fff;
@@ -33,7 +34,7 @@ body {
     font-weight: bold;
     text-align: left;
     border: 1px solid #bc8f8f;
-    margin: 0 auto;
+    margin: 0.6rem auto;
 }
 
 #container h1 {
