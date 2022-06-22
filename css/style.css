@@ -1,0 +1,47 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Palette+Mosaic&display=swap');
+
+body {
+    text-align: center;
+    font-family: 'Palette Mosaic', cursive;
+    font-size: 20px;
+    color: #a52a2a;
+    margin: 0;
+    padding: 0;
+    background-color: #f3d2d2;
+}
+
+
+#cabecera {
+    margin: 0.9rem 0;
+    padding: 0.5em;
+    background-color: #456;
+    color: #fff;
+    font-size: 1.5rem;
+    font-weight: 700;
+    box-shadow: 0px 0px 13px 0px rgba(0, 0, 0, 0.75);
+}
+
+#cabecera #tagline {
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
+
+#container {
+    width: 70%;
+    padding: 0;
+    font-weight: bold;
+    text-align: left;
+    border: 1px solid #bc8f8f;
+    margin: 0.6rem auto;
+}
+
+#container h1 {
+    font-size: 30px;
+    font-family: 'Palette Mosaic', cursive;
+}
+
+#post {
+    padding: 1em;
+}
